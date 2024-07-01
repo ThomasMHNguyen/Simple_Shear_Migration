@@ -1,0 +1,10 @@
+
+### Directories ###
+__pycache__/
+00_Deprecated_Scripts/
+01_Test_Results/
+02_Actual_Results/
+02a_Problematic_Results/
+03_Run_Results/
+
+### Specific Files ###

@@ -1,0 +1,5 @@
+### Ignore Directories ###
+00_Deprecated_Scripts/
+__pycache__/
+
+### Ignore Files ###

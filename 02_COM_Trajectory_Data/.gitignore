@@ -1,0 +1,10 @@
+### Directories ###
+__pycache__/
+00_Deprecated_Scripts/
+01_Test_Results/
+02_Actual_Results/
+misc/__pycache__
+plotting/__pycache__
+
+### Specific Files ###
+
